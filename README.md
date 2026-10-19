@@ -3,10 +3,10 @@
 ## Repository Outline
 
 
-├── /Scraping & Data Cleaning - berisi data scraping dan EDA
-├── /Data Science and Model Training - berisi notebook data modeling, training, dan inference
-├── app_2.py - script deployment Streamlit
-├── /model_2_sigmoid.keras - hasil model
+- Scraping & Data Cleaning - berisi data scraping dan EDA
+- Data Science and Model Training - berisi notebook data modeling, training, dan inference
+- app_2.py - script deployment Streamlit
+- model_2_sigmoid.keras - hasil model
 
 
 ## Problem Background
